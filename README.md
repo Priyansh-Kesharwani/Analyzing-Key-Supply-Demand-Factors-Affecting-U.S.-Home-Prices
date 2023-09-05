@@ -59,7 +59,9 @@ Data cleaning was performed to handle missing values i.e. implentations of KNNim
 
 ### Step 6: Exploratory Data Analysis (EDA)
 
-Exploratory data analysis was conducted to gain insights into data distribution, correlations, and trends. Visualizations were created to better understand the relationships between variables.All the Visualization plots are present inside the Notebook.Here are few
+Exploratory data analysis was conducted to gain insights into data distribution, correlations, and trends. Visualizations were created to better understand the relationships between variables.All the Visualization plots are present inside the Notebook.Here are few:
+- ![Heatmap](images/heatmap.png)
+- ![Plot](images/pairplot.png)
 
 ### Step 7: Model Building
 
